@@ -172,7 +172,7 @@ Check out the full demo of **MealTime Dashboard** here: [Watch Demo Video](https
 ## 🔗 Related Project
 
 * 📱 MealTime Mobile App
-  (https://lnkd.in/dVjQWPca)
+  (https://github.com/khaled365-code/MealTime_App_V_2.0.0)
 
 ---
 
