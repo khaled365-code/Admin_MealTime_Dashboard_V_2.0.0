@@ -141,9 +141,9 @@ It ensures:
 
 ### Example:
 
-| Meals                                   | Users                                   |
-| --------------------------------------- | --------------------------------------- |
-| ![](assets/dashboard_screens/meals.png) | ![](assets/dashboard_screens/users.png) |
+| Meals                                   | 
+| --------------------------------------- |
+| ![](assets/dashboard_screens/meals.png) |
 
 
 ---
