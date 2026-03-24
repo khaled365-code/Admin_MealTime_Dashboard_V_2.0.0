@@ -1,6 +1,6 @@
 # 🛠️ MealTime Admin Dashboard
 
-A powerful and scalable **Admin Dashboard** designed to manage the MealTime food service app efficiently.
+A powerful and scalable **Web-based Admin Dashboard** designed to manage the MealTime food service app efficiently.
 It provides full control over meals, users, and system content with a clean and intuitive interface.
 
 ---
