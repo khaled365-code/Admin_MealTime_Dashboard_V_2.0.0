@@ -139,13 +139,6 @@ It ensures:
 | ![](./assets/app_screens/delete_chef_section.jpg) |
 
 
-### Example:
-
-| Meals                                   | 
-| --------------------------------------- |
-| ![](assets/dashboard_screens/meals.png) |
-
-
 ---
 
 ## 🎥 Demo
