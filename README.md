@@ -1,6 +1,6 @@
 # 🛠️ MealTime Admin Dashboard
 
-A powerful and scalable **Admin Dashboard** designed to manage the MealTime food service app efficiently.
+A powerful and scalable **Web-based Admin Dashboard** designed to manage the MealTime food service app efficiently.
 It provides full control over meals, users, and system content with a clean and intuitive interface.
 
 ---
@@ -139,17 +139,33 @@ It ensures:
 | ![](./assets/app_screens/delete_chef_section.jpg) |
 
 
-### Example:
-
-| Meals                                   | Users                                   |
-| --------------------------------------- | --------------------------------------- |
-| ![](assets/dashboard_screens/meals.png) | ![](assets/dashboard_screens/users.png) |
-
-
 ---
 
 ## 🎥 Demo
 Check out the full demo of **MealTime Dashboard** here: [Watch Demo Video](https://youtu.be/dKHf_uGSr-s)
+
+---
+
+---
+
+## 🏗️ Project Structure
+> 📌 The project follows a clean and scalable **feature-based architecture** using Flutter & Bloc.
+
+---
+
+### 🧩 Overall Architecture
+![Project Structure](./assets/app_screens/overall_structure_admin_app.png)
+
+---
+
+### 🧱 Feature Structure Example
+![Feature Structure](./assets/app_screens/feature_structure_admin_app.png)
+
+---
+
+---
+
+> 💡 This structure ensures scalability, maintainability, and separation of concerns, making the app easy to extend and manage.
 
 ---
 
@@ -160,11 +176,14 @@ Check out the full demo of **MealTime Dashboard** here: [Watch Demo Video](https
 
 ---
 
-## 💼 Freelance Description
+## 💻 Tech Stack
 
-A professional admin dashboard built to manage a full food service system, including meal moderation and user management.
-
-The dashboard allows real-time control over system data, ensuring high-quality content through approval workflows, and providing a scalable solution for managing user-generated platforms.
+* Flutter
+* Dart
+* Bloc
+* API Integration
+* MVVM Architecture
+* Animations
 
 ---
 
